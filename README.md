@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # Welcome to My Repository!🎉
 
 Hey there! I'm a coder with a passion for React ❤️, but my heart truly sings (literally)🎙️. If there's a way to combine coding and singing, count me in! I'm all about solving problems, whether they're in code or real life, especially with friends by my side. Pair programming?👯‍♂️ Absolutely my thing—it’s like a brain duet that makes me a better coder.
